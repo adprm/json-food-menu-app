@@ -76,6 +76,83 @@
             "description": "Roti burger, 100% daging sapi, saus tomat, acar timun, potongan bawang dan mustard.",
             "price": 54000,
             "image": "beef-burger.png"
+        },
+        {
+            "category": "Ayam",
+            "name": "Ayam Krispy",
+            "description": "Ayam goreng, dengan kulit yang renyah dan daging ayam yang lembut dan gurih. Tersedia dalam pilihan A la Carte, PaNas 1, PaNas 2, Panas 2 with Fries, PaMer 5, PaMer 7",
+            "price": 32000,
+            "image": "ayam-krispy.png"
+        },
+        {
+            "category": "Ayam",
+            "name": "Ayam Spicy",
+            "description": "Ayam goreng dengan bumbu pedas, rasakan sensasi pedas pada kulit yang renyah hingga daging ayam yang lembut dan gurih. Tersedia dalam pilihan A la Carte, PaNas 1, PaNas 2, Panas 2 with Fries, PaMer 5, PaMer 7",
+            "price": 32000,
+            "image": "ayam-spicy.png"
+        },
+        {
+            "category": "Ayam",
+            "name": "Paket 1",
+            "description": "Ayam Goreng dengan nasi hangat dan minuman FruitTea lemon yang menyegarkan. Tersedia dalam pilihan Ayam Krispy atau Spicy",
+            "price": 35000,
+            "image": "paket1.png"
+        },
+        {
+            "category": "Ayam",
+            "name": "Paket 2",
+            "description": "2 pcs Ayam Goreng dengan kentang goreng dan minuman FruitTea lemon yang menyegarkan. Tersedia dalam pilihan Ayam Krispy atau Spicy",
+            "price": 38000,
+            "image": "paket2.png"
+        },
+        {
+            "category": "Ayam",
+            "name": "Paket Spesial",
+            "description": "Ayam Goreng dengan nasi hangat dan tambahan scrambled egg serta minuman FruitTea lemon yang menyegarkan. Tersedia dalam pilihan Ayam Krispy atau Spicy",
+            "price": 42000,
+            "image": "paket-spesial.png"
+        },
+        {
+            "category": "Ayam",
+            "name": "Paket Hot 1",
+            "description": "5 pcs ayam goreng, 3 nasi dan 3 minuman Fruit Tea Lemon. Tersedia dalam pilihan Ayam Krispy, Spicy atau spesial (campuran krispy & spicy)",
+            "price": 52000,
+            "image": "paket-hot1.png"
+        },
+        {
+            "category": "Ayam",
+            "name": "Paket Hot 2",
+            "description": "7 pcs ayam goreng McDonald's, 5 nasi dan 5 minuman Fruit Tea Lemon. Tersedia dalam pilihan Ayam Krispy, Spicy atau spesial (campuran krispy & spicy)",
+            "price": 60000,
+            "image": "paket-hot2.png"
+        },
+        {
+            "category": "Ayam",
+            "name": "Nasi Uduk Komplit",
+            "description": "Cita rasa lokal dengan nasi berbumbu, ayam goreng Mcdonald's, telur dan sambal terasi",
+            "price": 55000,
+            "image": "nasduk-komplit.png"
+        },
+        {
+            "category": "Ayam",
+            "name": "5 pcs Gochujang Chicken",
+            "description": "5 pcs Gochujang Chicken dengan sensasi ayam ala Korea yang bercita rasa gurih pedas",
+            "price": 58000,
+            "image": "5pcs-gochujang.png"
+        },
+        {
+            "category": "Ayam",
+            "name": "3 pcs Gochujang Chicken",
+            "description": "3 pcs Gochujang Chicken dengan sensasi ayam ala Korea yang bercita rasa gurih pedas",
+            "price": 55000,
+            "image": "3pcs-gochujang.png"
+        },
+        {
+            "category": "Ayam",
+            "name": "Honey Garlic Chicken",
+            "description": "Nasi hangat dengan topping daging ayam disajikan dengan saus honey garlic",
+            "price": 60000,
+            "image": "honey-garlic.png"
         }
     ]
 }
