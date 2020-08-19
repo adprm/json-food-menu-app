@@ -153,6 +153,34 @@
             "description": "Nasi hangat dengan topping daging ayam disajikan dengan saus honey garlic",
             "price": 60000,
             "image": "honey-garlic.png"
+        },
+        {
+            "category": "Ikan",
+            "name": "Fish Fillet Yakiniku",
+            "description": "Burger dengan fillet ikan dengan kombinasi saus Yakiniku dan saus mayo, yang disajikan dengan nori (rumput laut) dan irisan kol dalam setangkup roti yang lembut",
+            "price": 40000,
+            "image": "fish-fillet-yakiniku.png"
+        },
+        {
+            "category": "Ikan",
+            "name": "Fish Fillet Burger",
+            "description": "Daging ikan pilihan, dengan saus tartar dan keju istimewa dalam setangkup roti lembut kukus",
+            "price": 35000,
+            "image": "fish-fillet-burger.png"
+        },
+        {
+            "category": "Ikan",
+            "name": "Honey Garlic Fish Rice",
+            "description": "Nasi hangat dengan topping daging ikan disajikan dengan saus honey garlic",
+            "price": 45000,
+            "image": "fish-honey-garlic.png"
+        },
+        {
+            "category": "Ikan",
+            "name": "Rica-rica Fish Rice",
+            "description": "Saus rica-rica pedas di atas nasi hangat dan daging ikan yang digoreng sempurna.",
+            "price": 55000,
+            "image": "rica-fish.png"
         }
     ]
 }
