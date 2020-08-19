@@ -1,0 +1,81 @@
+{
+    "menu": [
+        {
+            "kategori": "Burger",
+            "nama": "Burger Nasi Goreng Spesial",
+            "deskripsi": "Burger daging sapi 100% asli, dengan rasa Nasi Goreng lengkap dengan timun dan bawang bombai dan telur diapit roti spesial yang hangat.",
+            "harga": 50000,
+            "gambar": "burger-nasgor-spesial.png"
+        },
+        {
+            "kategori": "Burger",
+            "nama": "Burger Nasi Goreng",
+            "deskripsi": "Burger daging sapi 100% asli, dengan rasa Nasi Goreng lengkap dengan timun dan bawang bombai diapit roti spesial yang hangat",
+            "harga": 35000,
+            "gambar": "burger-nasgor.png"
+        },
+        {
+            "kategori": "Burger",
+            "nama": "Beef Yakiniku Tamgo",
+            "deskripsi": "Burger dengan daging sapi asli dilengkapi saus Yakiniku dengan kombinasi nori (rumput laut) dan irisan kol, ditambah nikmatnya telur yang disajikan dalam setangkup roti lembut",
+            "harga": 52000,
+            "gambar": "beef-yakiniku.png"
+        },
+        {
+            "kategori": "Burger",
+            "nama": "Big Mac",
+            "deskripsi": "Burger Ikonik McDonald's. Dua lapis daging sapi gurih disajikan dengan saus spesial, selada segar, keju, acar timun, bawang, diapit roti bertabur wijen",
+            "harga": 100000,
+            "gambar": "bigmac.png"
+        },
+        {
+            "kategori": "Burger",
+            "nama": "Triple Burger with Cheese",
+            "deskripsi": "Perpaduan roti burger dengan 3 Lapisan daging gurih dan 2 lapisan keju, saus tomat, acar, potongan bawang dan mustard.",
+            "harga": 89000,
+            "gambar": "triple-burger.png"
+        },
+        {
+            "kategori": "Burger",
+            "nama": "Double Cheese Burger",
+            "deskripsi": "Perpaduan roti burger dengan 2 Lapisan daging gurih dan 2 lapisan keju disajikan dengan saus tomat, acar, potongan bawang dan mustard.",
+            "harga": 76000,
+            "gambar": "double-cheese.png"
+        },
+        {
+            "kategori": "Burger",
+            "nama": "Cheeseburger Deluxe",
+            "deskripsi": "Perpaduan roti burger dengan daging sapi gurih, selada segar, keju, saus tomat, acar, potongan bawang dan mustard.",
+            "harga": 74000,
+            "gambar": "cheeseburger-delux.png"
+        },
+        {
+            "kategori": "Burger",
+            "nama": "Cheeseburger with Egg",
+            "deskripsi": "Roti burger lezat dengan daging sapi, telur, keju, saus tomat, acar, potongan bawang dan mustard",
+            "harga": 87000,
+            "gambar": "cheeseburger-egg.png"
+        },
+        {
+            "kategori": "Burger",
+            "nama": "Cheeseburger",
+            "deskripsi": "Roti burger, daging sapi, keju, saus tomat, acar, potongan bawang dan mustard.",
+            "harga": 64000,
+            "gambar": "cheeseburger.png"
+        },
+        {
+            "kategori": "Burger",
+            "nama": "Beef Burger Delux",
+            "deskripsi": "Burger dengan 100% daging sapi Australia dengan selada segar, tomat, acar timun, potongan bawang bombai dan mustard.",
+            "harga": 70000,
+            "gambar": "beef-burger-delux.png"
+        },
+        {
+            "kategori": "Burger",
+            "nama": "Beef Burger",
+            "deskripsi": "Roti burger, 100% daging sapi, saus tomat, acar timun, potongan bawang dan mustard.",
+            "harga": 54000,
+            "gambar": "beef-burger.png"
+        }
+    ]
+}
