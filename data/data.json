@@ -258,6 +258,76 @@
             "description": "Perpaduan daun teh asli dan bunga jasmin alami yang khas dikemas dalam bentuk Tetra pack yang praktis",
             "price": 10000,
             "image": "teh-botol.png"
+        },
+        {
+            "category": "Makanan Penutup",
+            "name": "Flurry Tehbotol Oreo",
+            "description": "Rasa autentik Tehbotol Sosro berpadu dengan es krim vanilla dengan topping OREO",
+            "price": 18000,
+            "image": "flurry-tehbotol.png"
+        },
+        {
+            "category": "Makanan Penutup",
+            "name": "Flurry Tehbotol Kue Jadul",
+            "description": "Rasa autentik Tehbotol Sosro berpadu dengan es krim vanilla dengan topping Kue Jadul",
+            "price": 18000,
+            "image": "flurry-tehbotol-jadul.png"
+        },
+        {
+            "category": "Makanan Penutup",
+            "name": "Cone Top Es Teler",
+            "description": "Es krim vanilla McD diatas cone pink Instagrammable dan coating paduan rasa es teler yang segar",
+            "price": 15000,
+            "image": "cone-top.png"
+        },
+        {
+            "category": "Makanan Penutup",
+            "name": "Banana Choco Pie",
+            "description": "Campuran buah pisang yang dihaluskan dan lelehan coklat Belgia hangat dalam balutan pastry renyah.",
+            "price": 20000,
+            "image": "banana-choco.png"
+        },
+        {
+            "category": "Makanan Penutup",
+            "name": "Apple Pie",
+            "description": "Pastry renyah berisi potongan buah apel dan bumbu kayu manis memberikan cita rasa manis, juicy, lembut dan gurih",
+            "price": 20000,
+            "image": "apple-pie.png"
+        },
+        {
+            "category": "Makanan Penutup",
+            "name": "Flurry feat. Oreo",
+            "description": "Es krim vanilla lembut dengan campuran biskuit Oreo Crumbs",
+            "price": 25000,
+            "image": "flurry-oreo.png"
+        },
+        {
+            "category": "Makanan Penutup",
+            "name": "Flurry Choco",
+            "description": "Es krim vanilla lembut dengan campuran bubuk coklat",
+            "price": 25000,
+            "image": "flurry-choco.png"
+        },
+        {
+            "category": "Makanan Penutup",
+            "name": "Chocolate Sundae",
+            "description": "Es krim vanilla lembut dengan pilihan topping saus coklat",
+            "price": 28000,
+            "image": "choco-sundae.png"
+        },
+        {
+            "category": "Makanan Penutup",
+            "name": "Choco Top",
+            "description": "Es krim vanilla dilapisi coklat renyah disajikan dengan cone renyah",
+            "price": 23000,
+            "image": "choco-top.png"
+        },
+        {
+            "category": "Makanan Penutup",
+            "name": "Ice Cream Cone",
+            "description": "Es krim vanilla disajikan dengan cone renyah",
+            "price": 16000,
+            "image": "cream-cone.png"
         }
     ]
 }
