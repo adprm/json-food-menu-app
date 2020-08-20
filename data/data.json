@@ -181,6 +181,83 @@
             "description": "Saus rica-rica pedas di atas nasi hangat dan daging ikan yang digoreng sempurna.",
             "price": 58000,
             "image": "rica-fish.png"
+        },
+        {
+            "category": "Minuman",
+            "name": "Soda Asam Jawa",
+            "description": "Minuman bersoda dingin dengan rasa asam jawa yang menyegarkan",
+            "price": 10000,
+            "image": "soda-asam-jawa.png"
+        },
+        {
+            "category": "Minuman",
+            "name": "Es Kopi Durian Jelly float",
+            "description": "Es kopi dari 100% biji kopi Arabika dengan perpaduan rasa khas buah durian Indonesia serta topping Jelly dan es krim vanilla",
+            "price": 15000,
+            "image": "es-kopi-durian.png"
+        },
+        {
+            "category": "Minuman",
+            "name": "Sakura Fizz",
+            "description": "Minuman bersoda dengan rasa manis menyegarkan dari buah berry yang berwarna merah",
+            "price": 11000,
+            "image": "sakura-fizz.png"
+        },
+        {
+            "category": "Minuman",
+            "name": "Fruit Tea Lemon",
+            "description": "Teh rasa buah lemon yang segar",
+            "price": 9000,
+            "image": "fruit-tea.png"
+        },
+        {
+            "category": "Minuman",
+            "name": "Coca Cola",
+            "description": "Minuman berkarbonasi dengan rasa cola",
+            "price": 9000,
+            "image": "coca-cola.png"
+        },
+        {
+            "category": "Minuman",
+            "name": "Sprite",
+            "description": "Minuman berkarbonasi dengan rasa perpaduan lemon lime dan soda",
+            "price": 9000,
+            "image": "sprite.png"
+        },
+        {
+            "category": "Minuman",
+            "name": "Fanta",
+            "description": "Minuman berkarbonasi dengan rasa strawberry",
+            "price": 9000,
+            "image": "fanta.png"
+        },
+        {
+            "category": "Minuman",
+            "name": "Iced Coffe Float",
+            "description": "Es kopi 100% Arabika dengan susu yang segar dan tambahan es krim vanilla",
+            "price": 12000,
+            "image": "iced-coffe-float.png"
+        },
+        {
+            "category": "Minuman",
+            "name": "Iced Coffee Jelly",
+            "description": "Es kopi 100% Arabika dengan susu yang segar dan tambahan jelly",
+            "price": 10000,
+            "image": "ice-coffe-jelly.png"
+        },
+        {
+            "category": "Minuman",
+            "name": "Iced Milo",
+            "description": "Susu coklat Milo yang segar dan bernutrisi",
+            "price": 8000,
+            "image": "milo.png"
+        },
+        {
+            "category": "Minuman",
+            "name": "Tehbotol Sosro Kotak",
+            "description": "Perpaduan daun teh asli dan bunga jasmin alami yang khas dikemas dalam bentuk Tetra pack yang praktis",
+            "price": 10000,
+            "image": "teh-botol.png"
         }
     ]
 }
